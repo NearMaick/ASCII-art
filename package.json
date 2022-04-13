@@ -1,0 +1,13 @@
+{
+  "name": "ASCIIimage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "asciify-image": "^0.1.8"
+  }
+}
