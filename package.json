@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.mjs"
+  },
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.15"
